@@ -1,0 +1,9 @@
+li {
+  background-color: khaki;
+  margin: 2px;
+  padding: 2px;
+}
+
+[data-done-state="true"] {
+  text-decoration: line-through;
+}
